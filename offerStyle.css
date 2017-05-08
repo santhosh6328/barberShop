@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif inherit;
+    font-size: 16;
+    color: #37d63f;
+    background:#f34fff url("images/offerBackground.jpg")  no-repeat right top;
+    background-size: cover;
+  }
+  button{
+    padding: 20%;
+  }

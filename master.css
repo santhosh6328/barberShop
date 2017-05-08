@@ -1,0 +1,9 @@
+body{
+  font-family: sans-serif inherit;
+  font-size: 16;
+  color: #37d63f;
+  background:#ffffff url("images/barber-wallpaper-HD2.jpg") no-repeat right top;
+}
+#linkbar{
+  padding-top: 20%;
+}
